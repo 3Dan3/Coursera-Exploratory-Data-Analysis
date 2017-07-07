@@ -1,2 +1,7 @@
 # Coursera-Exploratory-Data-Analysis
-Repository for course assignments
+
+This repository contains the assignments for the Coursera course
+
+* Assignment_one 
+
+* Assignment_two
